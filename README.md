@@ -9,7 +9,7 @@ Project Overview
 WaveCon leads the charge in 5G innovation, redefining connectivity for the future with lightning-fast speeds and unparalleled reliability with more than 161.7 million active users, holding a market share of 17.84 % as of Sep2023. WaveCon5G is lossing customers rapidly in the recent years, and they have decided to implement the data analytics using PowerBI in their company for the first time to surpass their competitors in the market and to make data driven decisions.
 
 
-### [Presentation Link](https://github.com/VkasRajpurohit/WaveCon5G_Analysis/tree/main/Presentation)
+### [Presentation Link](https://github.com/VkasRajpurohit/WaveCon5G-Telecom-Analysis/tree/main/Presentation)
 
 ---
 
