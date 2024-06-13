@@ -28,7 +28,7 @@ WaveCon leads the charge in 5G innovation, redefining connectivity for the futur
 
 ---
 
-[![WaveCon5G Telecom Analysis Presentation](https://github.com/VkasRajpurohit/WaveCon5G-Telecom-Analysis/assets/82312234/1ebc750a-6536-42ba-a458-b79a81d6975d)
+![WaveCon5G Telecom Analysis Presentation](https://github.com/VkasRajpurohit/WaveCon5G-Telecom-Analysis/assets/82312234/1ebc750a-6536-42ba-a458-b79a81d6975d)
 
 ---
 
